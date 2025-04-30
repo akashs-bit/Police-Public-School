@@ -31,15 +31,6 @@ A modern, responsive school website built with HTML, CSS, and JavaScript.
 
 ---
 
-## 📸 Screenshots
-
-![Home Page](./screenshots/home.png)
-![Contact Page](./screenshots/contact.png)
-
-*(Make sure to save screenshots in a `/screenshots` folder)*
-
----
-
 ## 🚀 Getting Started
 
 1. Clone the repo:
